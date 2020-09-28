@@ -1,4 +1,5 @@
-# Calculate area of circle, ellipse (without using formula of π)
+# Calculate area of circle, ellipse 
+(cannot use formula πr<sup>2</sup> and πab)
 
 ## Calculate area of circle
 
