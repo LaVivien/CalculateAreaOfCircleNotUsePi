@@ -1,9 +1,9 @@
-# Blackout math puzzle
+# Calculate area of circle, ellipse (without using formula of π)
 
 ## Calculate area of circle
 
 Write a program to approximate the area under a
-circle with radius r. Note that you should forget the existence of the well known formula area = πr2.
+circle with radius r. Note that you should forget the existence of the well known formula area = πr<sup>2</sup>.
 
 ![Alt text](https://github.com/lavivien-cs-projects/CalculateAreaOfCircleNotUsePi/blob/master/circle_area.jpg?raw=true "Title")
 
