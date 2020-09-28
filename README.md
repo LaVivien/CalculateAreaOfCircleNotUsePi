@@ -6,7 +6,7 @@ Write a program to approximate the area under a
 circle with radius r. Note that you should forget the existence of the well
 known formula area = πr2.
 
-![Alt text](https://github.com/lavivien-ds-algo/CalculateAreaOfCircleNotUsePi/blob/master/circle_area.jpg?raw=true "Title")
+![Alt text](https://github.com/lavivien-cs-projects/CalculateAreaOfCircleNotUsePi/blob/master/circle_area.jpg?raw=true "Title")
 
 Method: The equation of a circles with radius r, centered at origin is x2 + y2 = r2.
 Divide the area under the first quadrant in to small rectangles of width of your choice
@@ -30,11 +30,11 @@ ellipse centered at origin. Assume major axis and minor axis lengths are 2a
 and 2b respectively. Note that you should forget the existence of the well
 known formula area = πab.
 
-![Alt text](https://github.com/lavivien-ds-algo/CalculateAreaOfCircleNotUsePi/blob/master/ellipse_area.jpg?raw=true "Title")
+![Alt text](https://github.com/lavivien-cs-projects/CalculateAreaOfCircleNotUsePi/blob/master/ellipse_area.jpg?raw=true "Title")
 
 Method: The equation of such an ellipse centered at origin is as follows.
 
-![Alt text](https://github.com/lavivien-ds-algo/CalculateAreaOfCircleNotUsePi/blob/master/ellipse_formula.jpg?raw=true "Title")
+![Alt text](https://github.com/lavivien-cs-projects/CalculateAreaOfCircleNotUsePi/blob/master/ellipse_formula.jpg?raw=true "Title")
 
 Divide the area under the first quadrant in to small rectangles of your
 choice – smaller the better and you should pass this as a parameter to your
